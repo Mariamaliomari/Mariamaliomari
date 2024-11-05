@@ -1,8 +1,7 @@
-## Hi there 👋
-### Full-Stack Web Developer and Data Scientist
-Hello! I'm Mariam Ali 👋
-I’m a passionate Full-Stack Web Developer, a Data Enthusiast, and an advocate for community development. I specialize in building responsive, user-friendly web applications that bring value to my clients.
+# Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Mariam Ali
+====================================================================================================================================
 
-Beyond coding, I’m a teacher who loves sharing knowledge, and in my free time, I enjoy dancing, exploring the outdoors, and watching movies.
+Fullstack Software Engineer and Data Scientist
+-------------------------------------------------------------
 
-This is my personal portfolio—feel free to explore my work, and check out my blog, where I share my thoughts, insights, and experiences.
+####  I focus on aligning technology with user needs by tackling challenges in both back-end and front-end development—crafting intuitive interfaces and optimizing server-side logic. Every line of code represents a chance to elevate user experiences and drive meaningful impact. As a Data Enthusiast, I’m passionate about transforming raw data into actionable insights, empowering decisions and shaping innovations. I believe in the power of collaboration, open communication, and continuous learning to create impactful software and data-driven solutions. Beyond building tech, I'm dedicated to community growth and sharing knowledge through teaching.
