@@ -9,7 +9,7 @@ Fullstack Software Engineer and Data Scientist
 ### Contact Me
 *   ✉️  You can contact me at [mamushkah001@gmail.com](mailto:mamushkah001@gmail.com)
 *   🚀  You can check my Portifolio at [Portifolio](https://my-siteportfolio.vercel.app/)
-*   🧠  I'm learning Rust
+*   🧠  I'm learning Data Science from ALX
 *   🤝  I'm open to collaborating on Projects
 
 ####
